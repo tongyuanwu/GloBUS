@@ -40,10 +40,10 @@ It includes:
 # files_lifetimes
 It includes:
 
-* Scale parameters used in the weilull distribution of the residential buildings' lifetime (lifetimes_scale.csv)
-* Shape parameters used in the weilull distribution of the residential buildings' lifetime (lifetimes_shape.csv)
-* Scale parameters used in the weilull distribution of the commercial buildings' lifetime (lifetimes_scale_comm.csv)
-* Shape parameters used in the weilull distribution of the commercial buildings' lifetime (lifetimes_shape_comm.csv)
+* Scale parameters used in the Weibull distribution of the residential buildings' lifetime (lifetimes_scale.csv)
+* Shape parameters used in the Weibull distribution of the residential buildings' lifetime (lifetimes_shape.csv)
+* Scale parameters used in the Weibull distribution of the commercial buildings' lifetime (lifetimes_scale_comm.csv)
+* Shape parameters used in the Weibull distribution of the commercial buildings' lifetime (lifetimes_shape_comm.csv)
 
 # files_material_density
 It includes:
